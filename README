@@ -1,0 +1,25 @@
+Fonline Bot aka FBot
+====================
+
+Description
+-----------
+
+Partial reverse engineering of the mmorpg based on Fallout universe : FOnline.
+
+The bot can perform basic actions with several security protection bypasses (multiple login, etc).
+
+Within one week, my two automated players reach maximum level without being caught.
+
+Disclaimer
+----------
+
+This is not an attempt to hack a game but a good demonstration of basic protocol reverse engineering.
+
+The tool within Futils can be reused to fuse protocol from a wireshark dump.
+
+This is made public because after the public disclosure of several security breaches demonstrated by this program, the game protocol was updated.
+
+Author
+------
+
+Samy Duc aka nobunaga.duc@gmail.com
